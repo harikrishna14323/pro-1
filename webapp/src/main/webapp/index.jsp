@@ -40,6 +40,8 @@
 <li> Faculty</li>
 <li> Teaching Faculty </li>
 <li> Non-Teaching Faculty </li>
+<li> Placement training center </li>
+<li> Library </li>
 </font>
 </ul> <hr> 
 <font face="italic" size="4" color="pink">
