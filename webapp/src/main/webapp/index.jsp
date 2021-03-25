@@ -3,7 +3,7 @@
 <head>
 <title> Tripura Junior College </title>
 </head>
-<body  bgcolor="sky blue"> 
+<body  bgcolor="pink"> 
 <background="E:\ET\PICTURES\babys pics\imagewall.jpg>
 <center> <font size="7" color="orange" face="bold"> Tripura Junior College </font> </center> <hr>
 <a href="https://www.coursera.org/" target="blank"> <font size="5" color="yellow"> Course era</a> ||     
